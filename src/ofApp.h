@@ -260,27 +260,3 @@ class ofApp : public ofBaseApp{
 			ofParameterGroup worldParams;
 
 };
-
-/* Todo:
-
-PRIMARY
-- post FX
-- emojit ja somet floating !!!
-
-- macit emitting light...?
-
-- videos textures for macs?
-
-
-SECONDARY
-- separate randombeatboxes from drawbands
-
-- screenshot cube splitting (imagesubsection?)
-- screenshot cube positioning/rotation
-
-
-
-*/
-
-
-
