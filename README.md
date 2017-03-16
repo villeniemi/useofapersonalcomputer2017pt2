@@ -15,5 +15,4 @@ Completely an approach of scraping something together and making it work for one
 
 Feel free to get in touch via email 'hei at viiksimaisteri.fi' or Twitter @villeniemi.
 
-My first proper repo of my personal works. 
-
+My first proper repo of my personal works. [See it in my portfolio.](http://viiksimaisteri.fi/portfolio/useofapersonalcomputer2017/)
